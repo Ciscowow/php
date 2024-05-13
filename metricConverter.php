@@ -25,8 +25,8 @@
 
         .container1 h1{
             border-bottom: 2px solid white;
-            padding: 2px;
-            font-size: 40px;
+            padding-bottom: 7px;
+            font-size: 35px;
             text-align: center;
         }
 
