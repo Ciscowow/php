@@ -73,7 +73,7 @@
         select {
             background: #242526;
             color: white;
-            width: 30%;
+            width: 40%;
             margin-bottom: 10px;
             border: 2px;
             font-size: 20px;
