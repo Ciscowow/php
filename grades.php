@@ -73,10 +73,10 @@ input[type="text"] {
     background-color: transparent;
     border: 0px;
     border-radius: 20px;
-    width: 140px; /* Adjust the width as needed */
-    height: 70px; /* Adjust the height as needed */
-    padding: 10px; /* Add padding for better appearance */
-    font-size: 100px; /* Adjust font size */
+    width: 140px; 
+    height: 70px; 
+    padding: 10px; 
+    font-size: 100px; 
     position: relative;
 }
 img {
