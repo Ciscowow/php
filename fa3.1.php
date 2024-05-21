@@ -101,9 +101,7 @@
             "contact_number" => "09254287621" 
         )
     );
-    usort($contactinfo, function($a, $b) {
-        return strcmp($a['name'], $b['name']);
-    });
+    sort($contactinfo);
     ?>
     <table>
         <tr>
